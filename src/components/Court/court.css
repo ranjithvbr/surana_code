@@ -1,0 +1,169 @@
+
+
+.resume .MuiOutlinedInput-root {
+  position: relative;
+  height: 40px;
+}
+
+
+.shrinke .MuiInputLabel-formControl {
+    top: 7px !important;
+}
+
+.address .PrivateNotchedOutline-root-306{
+    margin-bottom: -50px !important;
+}
+
+.customresize{
+    height: 100px !important;
+}
+
+.calender-profile-height .ant-calendar-picker-input{
+    height: 41px;
+}
+
+.avater .ant-upload.ant-upload-select-picture-card{
+    height:136px;
+    width: 136px;
+} 
+
+@media (min-width: 960px){
+.resume .MuiGrid-grid-md-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 26%;
+    height: 94px;
+}
+}
+
+@media (min-width: 960px){
+    .address.MuiGrid-grid-md-3 {
+        flex-grow: 0;
+        max-width: 25%;
+        flex-basis: 26%;
+        height: 140px;
+    }
+    }
+
+
+    @media (min-width: 600px){
+.profession.MuiGrid-grid-sm-2 {
+    flex-grow: 0;
+    max-width: 6.666667%;
+    flex-basis: 16.666667%;
+}}
+
+@media (min-width: 600px){
+    .padml{
+        margin-left: 12% !important;
+    }}
+
+@media (min-width: 960px){
+    .padml{
+        margin-left:0% !important;
+    }
+    }   
+    
+/* experiance */
+
+
+ .justify-sp-ar{
+     justify-content: space-between;
+ }   
+
+ .addcircle_width{
+    font-size: 37px !important;
+    margin-top: -13px;
+ }
+
+ @media (min-width: 600px){
+    .responsibilities{
+        max-width: 89% !important;
+    }
+ }
+
+ @media (min-width: 960px){
+    .responsibilities{
+        max-width: 99.666667% !important;
+    }    
+    }   
+
+@media (min-width: 600px){
+    .sm_btn.MuiGrid-grid-sm-2 {
+        max-width: 9.666667% !important;
+    }  
+}
+    
+@media (min-width: 960px){
+    .sm_btn.MuiGrid-grid-sm-2 {
+        max-width: 16.666667% !important;
+    }  
+}  
+
+ .btn-btm-clr{
+    border-bottom: 4px solid #3f51b5;
+ }   
+
+ .btnstylers.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    color: #40a9ff;
+    background-color: rgba(0, 0, 0, 0.08);
+}
+
+.iconbtnright{
+    width: 125px;
+    height: 44px;
+    background-color: #8151c4;
+    border-color: #8151c4
+}
+
+.iconbtnleft{
+    height: 44px;
+    background-color: #8151c4;
+    border-color: #8151c4
+}
+
+.summary-btn-align{
+    margin-top: 259px;
+    justify-content: flex-end;
+    display: flex;
+}
+
+.experiance-btn-align{
+    justify-content: flex-end;
+    display: flex;
+    margin-top: 25px;
+}
+
+.education-btn-align{
+    justify-content: flex-end;
+    display: flex;
+    margin-top: 15px;
+}
+
+.skills-btn-align{
+    justify-content: flex-end;
+    display: flex;
+    margin-top: 242px;
+}
+
+.iconbtnright-preview{
+    width: 250px;
+    height: 44px;
+    background-color: #8151c4;
+    border-color: #8151c4
+}
+
+.iconbtnright:hover{
+    background-color: #8151c4;
+    border-color: #8151c4
+}
+
+.iconbtnleft:hover{
+    background-color: #8151c4;
+    border-color: #8151c4
+}
+
+.iconbtnright-preview:hover{
+    background-color: #8151c4;
+    border-color: #8151c4
+}

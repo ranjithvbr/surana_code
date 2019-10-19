@@ -1,0 +1,40 @@
+.achievementcontent{
+    margin-top: 30px;
+}
+
+.achievementconntent-space{
+    margin-left: 50px;
+    margin-right: 60px;
+}
+.textareasize{
+    height: 100px !important;
+}
+
+.payrollbtn{
+    display: flex;
+    justify-content: center;
+    margin-top: 65px;
+    margin-left: -100px;
+}
+
+ /* @media (max-width: 576px){
+    .floatbtnright{
+       float: right;
+    }
+    .floatbtnleft{
+        float: left;
+    }
+    .btnbottomcancel{
+        margin-top:10px;
+    }
+}
+
+@media (min-width: 576px){
+    .center{
+        display: flex;
+        justify-content: center;
+    }
+    .btnbottomcancel{
+        margin-top:10px;
+    } 
+} */

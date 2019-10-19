@@ -1,0 +1,31 @@
+.custom-box{
+    margin-top: 15px;
+    height: 44px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 17px;
+    background-color: #f5f5f58f;
+    justify-content: center;
+    box-shadow: 2px 2px lightgrey;
+}
+
+.standard-font{
+    font-size: 17px;
+}
+
+.justify-spa-ard{
+    justify-content: space-around;
+}
+
+.border_total{
+    border: 2px solid lightgray;
+    justify-content:center;
+}
+.position-top-btn{
+    position: relative;
+    top: -10px;
+}
+
+.lbl-mr label{
+    margin:0;
+}

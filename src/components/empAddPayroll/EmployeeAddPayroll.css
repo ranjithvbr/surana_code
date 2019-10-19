@@ -1,0 +1,14 @@
+.payrollcontentleftspace{
+    margin-left: 50px;
+}
+
+.payrollspace{
+    margin-top: 40px;
+}
+
+.parollbtn{
+    display: flex;
+    justify-content: center;
+    margin-top: 65px;
+    margin-left: -120px;
+}

@@ -1,0 +1,88 @@
+
+
+
+
+/* componentbox css */
+
+
+/* calenderbox */
+
+.customcalenderstyle .ant-calendar-picker-input{
+    border-color: rgba(0, 0, 0, 0.23);
+    font-size: 1rem;
+    height: 40px;
+}
+
+.customcalenderstyle .ant-calendar-picker-input:hover{
+    border-color: currentColor;
+}
+
+.ant-calendar-picker:hover .ant-calendar-picker-input:not(.ant-input-disabled) {
+    border-color: currentColor;
+}
+
+.customcalenderstyle input::-webkit-input-placeholder {
+    color: rgba(0, 0, 0, 0.54) !important;
+}
+
+
+
+/* inputbox */
+
+
+.inputstyle .MuiInputLabel-outlined.MuiInputLabel-shrink{
+    transform: translate(14px,0px)scale(0.75) !important;
+}    
+
+
+.inputstyle .MuiInputLabel-formControl {
+    margin-top: -8px;
+}
+
+
+
+/* material_ui dropdown */
+
+.inputstyle .MuiOutlinedInput-root {
+    position: relative;
+    height: 40px;
+}    
+
+
+
+/* antd dropdown */
+
+.dropdownantdstyle .ant-select-selection--single {
+    border-color: rgba(0, 0, 0, 0.23);
+    height: 40px;
+    padding-top: 3px;
+    font-size: 1rem;
+}
+
+.dropdownantdstyle .ant-select-selection--single:hover {
+    border-color: currentColor;
+}
+     
+.dropdownantdstyle .ant-select-selection__placeholder, .ant-select-search__field__placeholder {
+    color: rgba(0, 0, 0, 0.54) !important;
+}
+
+/* textareaautosize */
+
+.textareastyle{
+    resize: none;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+.textareastyle:focus{
+    overflow: hidden;
+    border-color: #3f51b5;
+    border-width: 2px;
+    outline: none;
+}
+
+.textareastyle:hover{
+    border-color: currentColor;
+}
+    
